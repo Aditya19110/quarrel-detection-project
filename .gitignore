@@ -72,3 +72,5 @@ models/*.h5
 *.bak
 
 dataset/
+snapshots/
+raw_videos/
