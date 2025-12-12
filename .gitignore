@@ -74,3 +74,4 @@ models/*.h5
 dataset/
 snapshots/
 raw_videos/
+models/
